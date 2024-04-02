@@ -32,3 +32,7 @@ Estudante de bacharelado em Ciência da Computação, com conhecimento em
 - CSS.
 - JavaScript.
 - Figma.
+## Contatos
+Email: dev.ferraz86@gmail.com
+
+Celular: 31 9 82328940
