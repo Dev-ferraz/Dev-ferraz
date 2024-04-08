@@ -28,12 +28,16 @@
 ##
 Estudante de bacharelado em Ciência da Computação, com conhecimento em 
 - Lógica de programação.
-- Desenvolvimento Back-end - Java eclipse.
-- Front-end. 
-- HTML.
-- CSS.
-- JavaScript.
-- Figma.
+- Desenvolvimento Back-end - Java
+- MySQL
+- Desenvolvimento Front-end 
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- Figma
+- 
 ## Contatos
 Email: dev.ferraz86@gmail.com
 
