@@ -36,7 +36,7 @@
 ##
 Estudante de bacharelado em Ciência da Computação 
 - Lógica de programação.
-- Desenvolvimento Back-end - Java
+- Desenvolvimento Back-end (Java)
 - MySQL
 - Desenvolvimento Front-end 
 - HTML
