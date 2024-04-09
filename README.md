@@ -34,7 +34,7 @@
 </div><br/>
 
 ##
-Estudante de bacharelado em Ciência da Computação, com conhecimento em 
+Estudante de bacharelado em Ciência da Computação 
 - Lógica de programação.
 - Desenvolvimento Back-end - Java
 - MySQL
