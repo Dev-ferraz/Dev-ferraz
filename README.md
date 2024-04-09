@@ -45,7 +45,7 @@ Estudante de bacharelado em Ciência da Computação, com conhecimento em
 - React
 - Angular
 - Figma
-- 
+  
 ## Contatos
 Email: dev.ferraz86@gmail.com
 
