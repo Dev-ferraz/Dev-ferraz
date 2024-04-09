@@ -49,4 +49,3 @@ Estudante de bacharelado em Ciência da Computação, com conhecimento em
 ## Contatos
 Email: dev.ferraz86@gmail.com
 
-Celular: 31 982328940
