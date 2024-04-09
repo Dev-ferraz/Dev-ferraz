@@ -46,6 +46,6 @@ Estudante de bacharelado em Ciência da Computação
 - Angular
 - Figma
   
-## Contatos
+## Contato
 Email: dev.ferraz86@gmail.com
 
