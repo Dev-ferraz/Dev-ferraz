@@ -41,6 +41,7 @@ Estudante de Bacharelado em Ciência da Computação
 - Lógica de programação.
 - Desenvolvimento Back-end (Java)
 - Spring tool
+- Postgresql
 - Desenvolvimento Front-end 
 - HTML
 - CSS
