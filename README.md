@@ -40,13 +40,12 @@
 Estudante de Bacharelado em Ciência da Computação 
 - Lógica de programação.
 - Desenvolvimento Back-end (Java)
-- MySQL
+- Spring tool
 - Desenvolvimento Front-end 
 - HTML
 - CSS
 - JavaScript
 - React
-- Angular
 - Figma
   
 ## Contato
