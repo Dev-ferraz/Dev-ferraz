@@ -37,7 +37,7 @@
 </div><br/>
 
 ##
-Estudante de Bacharelado em Ciência da Computação 
+## Estudante de Bacharelado em Ciência da Computação 
 - Desenvolvimento Back-end (Java)
 - Lógica de programação
 - Spring tool
