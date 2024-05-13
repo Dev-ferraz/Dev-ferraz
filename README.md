@@ -42,7 +42,7 @@
 - Lógica de programação
 - Spring tool
 - MySQL
-- Postgresql
+- PostgreSQL
 - Desenvolvimento Front-end 
 - HTML
 - CSS
