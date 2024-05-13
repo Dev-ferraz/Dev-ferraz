@@ -41,6 +41,7 @@
 - Desenvolvimento Back-end (Java)
 - Lógica de programação
 - Spring tool
+- MySQL
 - Postgresql
 - Desenvolvimento Front-end 
 - HTML
