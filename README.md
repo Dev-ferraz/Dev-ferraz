@@ -43,11 +43,11 @@
 - Spring tool
 - MySQL
 - PostgreSQL
-- Desenvolvimento Front-end 
+- Desenvolvimento Front-end
+- Vs Code
 - HTML
 - CSS
 - JavaScript
-- React
 - Figma
   
 ## Contato
