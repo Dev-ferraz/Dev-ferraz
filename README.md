@@ -4,6 +4,8 @@
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
 
+<img align= "center" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg"/>
+
 ## Tecnologias 
 
 <div style="display: inline_block"><br/>
@@ -28,7 +30,7 @@
 
 <img align= "center" alt="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img align= "center" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg"/>
+
 
 
        
