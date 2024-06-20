@@ -4,7 +4,9 @@
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
 
-<img align= "center" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain.svg"/>
+
+<i class="devicon-vscode-plain colored"></i>
+          
 
 ## Tecnologias 
 
