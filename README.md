@@ -29,12 +29,7 @@
 <img align= "center" alt="" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 
-
-
-<img align= "center" alt="" src="."/>
 
 </div><br/>
 
