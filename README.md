@@ -5,9 +5,6 @@
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
 
-
-
-          
 ##
 ## 🛠 Tools 
 
@@ -37,6 +34,7 @@
 - CSS
 - JavaScript
 - Figma
+- Inglês - Básico 
   
 ## 📩 Contato
 [![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferraz-2b3593299/)
