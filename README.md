@@ -1,5 +1,6 @@
 ### Dev Ferraz 👋
-[![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferraz-2b3593299/)
+
+
 
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
@@ -30,5 +31,9 @@
 - Figma
   
 ## 📩 Contato
+[![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferraz-2b3593299/)
+
 Email: dev.ferraz86@gmail.com
+
+
 
