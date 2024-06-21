@@ -23,8 +23,8 @@
 
 ##
 ## 📚 Estudante de Bacharelado em Ciência da Computação 
-- Desenvolvimento Back-end (Java)
 - Lógica de programação
+- Desenvolvimento Back-end (Java)
 - Spring tool
 - MySQL
 - PostgreSQL
