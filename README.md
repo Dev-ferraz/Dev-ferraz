@@ -4,8 +4,8 @@
 
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
+📚 Estudante de Bacharelado em Ciência da Computação 
 
-##
 ## 🛠 Tools 
 
 
@@ -21,21 +21,6 @@
 <img height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
 
-##
-## 📚 Estudante de Bacharelado em Ciência da Computação 
-- Lógica de programação
-- Desenvolvimento Back-end (Java)
-- Spring tool
-- MySQL
-- PostgreSQL
-- Desenvolvimento Front-end
-- Vs Code
-- HTML
-- CSS
-- JavaScript
-- Figma
-- Inglês - Básico 
-  
 ## 📩 Contato
 [![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferraz-2b3593299/)
 
