@@ -6,7 +6,7 @@
 
 📚 Estudante de Bacharelado em Ciência da Computação 
 
-## 🛠 Tools 
+## 🛠 Tools & Skills
 
 
 ### Back-end:
