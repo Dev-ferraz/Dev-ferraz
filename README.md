@@ -22,7 +22,8 @@
 <img height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
 ##
-## 📩 Contato
+### 📩 Contatos
+##
 [![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ferraz-2b3593299/)
 
 Email: dev.ferraz86@gmail.com
