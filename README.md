@@ -5,7 +5,7 @@
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
 ## 
-# 📚 Estudante de Bacharelado em Ciência da Computação 
+### 📚 Estudante de Bacharelado em Ciência da Computação 
 ###  🛠 Tools & Skills
 ## 
 
