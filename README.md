@@ -31,7 +31,7 @@
 ##
 ### 📩 Contatos
 ##
-[![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/thiago-ferraz-2b3593299/](www.linkedin.com/in/thiago-ferraz-32b015303))       
+[[![thiago GitHub stats](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/thiago-ferraz-2b3593299/](www.linkedin.com/in/thiago-ferraz-32b015303))](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)       
 
 Email: dev.ferraz86@gmail.com
 
