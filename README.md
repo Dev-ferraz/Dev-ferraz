@@ -33,7 +33,7 @@
 ##
 ### 📩 Contatos
 ##
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/thiago-ferraz-32b015303)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/thiago-ferraz-32b015303)
 
 Email: dev.ferraz86@gmail.com
 
