@@ -22,7 +22,7 @@
           
 ###  DataBases:
 
-<img height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img height="50"  width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> <img height="50"  width="55"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
 
 ###  Docker:
  <img height="40"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -33,6 +33,8 @@
 ##
 ### 📩 Contatos
 ##
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](www.linkedin.com/in/thiago-ferraz-32b015303)
+
 Email: dev.ferraz86@gmail.com
 
 
