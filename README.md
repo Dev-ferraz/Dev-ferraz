@@ -35,11 +35,11 @@
 
  ### Controle de versão:
 
- <img height="57"  width="67"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+ <img height="58"  width="67"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
 
  ### Design de interface e prototipação visual:
 
- <img height="38"  width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
+ <img height="37"  width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /> 
 
 
           
