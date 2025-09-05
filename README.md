@@ -1,11 +1,11 @@
-### Sou Dev Ferraz 👋 Desenvolvedor Back-end RESTful  
+#### Sou Dev Ferraz 👋 Desenvolvedor Back-end RESTful  
 
 
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
 ## 
-### 📚 Estudante de Bacharelado em Ciência da Computação 
-###  🛠 Tools & Skills 💻
+#### 📚 Estudante de Bacharelado em Ciência da Computação 
+####  🛠 Tools & Skills 💻
 ## 
 
 
