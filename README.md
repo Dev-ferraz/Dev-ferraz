@@ -4,7 +4,8 @@
 ![thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight)
 
 ## 
-### 📚 Estudante de Bacharelado em Ciência da Computação / Universidade UNA - Belo Horizonte - MGG
+### 📚 Estudante de Bacharelado em Ciência da Computação / Universidade UNA - Belo Horizonte - MG
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/thiago-ferraz-32b015303)
 ## 
 ###  🛠 Tools & Skills 💻
 ## 
@@ -48,10 +49,9 @@
 
 ##         
 ####
-### 📩 Contatos
-##    
-#### Email: dev.ferraz86@gmail.com
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/thiago-ferraz-32b015303)
+#### 📩 Email: dev.ferraz86@gmail.com
+
+
 
 
 
