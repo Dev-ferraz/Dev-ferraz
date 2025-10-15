@@ -36,14 +36,14 @@
 
 ### 🎨 Front-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,typescript,javascript,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,react,javascript,html,css,vscode" />
 </p>
 
 ---
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,maven,spring" />
 </p>
 
 ---
