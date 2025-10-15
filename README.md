@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="mailto:dev.ferraz86@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  
   </a>
   <a href="https://www.linkedin.com/in/thiago-ferraz-32b015303" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Thiagoferrazlopes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" />
+  
   </a>
 </p>
 
