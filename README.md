@@ -7,7 +7,6 @@
 
 🎓 **Bacharelado em Ciência da Computação** – Universidade UNA, Belo Horizonte - MG  
 💼 **Java - Spring Boot e TypeScript**  
-🌱 Sempre aprendendo e explorando **novas tecnologias** e **boas práticas de arquitetura**  
 📧 **Contato:** `dev.ferraz86@gmail.com`  
 
 <p align="center">
