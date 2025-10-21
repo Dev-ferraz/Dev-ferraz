@@ -31,8 +31,6 @@ Integração via JPA/Hibernate no Spring Boot
 
 Java • Spring Boot • TypeScript • Node.js • Vue.js •  MySQL • Docker • CI/CD • REST APIs
 
-📧 Contato:
-dev.ferraz86@gmail.com
 
 <p align="center">
   <a href="mailto:dev.ferraz86@gmail.com">
