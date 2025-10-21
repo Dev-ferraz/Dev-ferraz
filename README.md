@@ -3,13 +3,36 @@
 
 ---
 
-### 🧠 Sobre mim
+🧠 Sobre mim
 
-🎓 **Bacharelado em Ciência da Computação** – Universidade UNA, Belo Horizonte - MG - status: cursando.
+🎓 Bacharelado em Ciência da Computação – Universidade UNA, Belo Horizonte - MG (em andamento)
 
-💼 **Java - Spring Boot e TypeScript**  
+💼 Desenvolvedor Full Stack com foco em Java (Spring Boot) e TypeScript (Vue.js / Node.js).
 
-📧 **Contato:** `dev.ferraz86@gmail.com`  
+🧩 Experiência na construção de APIs RESTful, autenticação JWT, e integração com bancos de dados MySQL.
+
+🐳 Infraestrutura & Deploy:
+
+Criação e configuração de ambientes Docker com Dockerfile e docker-compose
+
+Integração de CI/CD pipelines (GitHub Actions / GitLab CI) para build, testes e deploy automatizados
+
+Utilização de containers para serviços integrados como backend, frontend e banco de dados
+
+Deploys automatizados em ambientes de homologação e produção
+
+🗄️ Banco de Dados:
+
+Modelagem relacional e consultas otimizadas em MySQL
+
+Integração via JPA/Hibernate no Spring Boot
+
+🧰 Principais Tecnologias:
+
+Java • Spring Boot • TypeScript • Node.js • Vue.js •  MySQL • Docker • CI/CD • REST APIs
+
+📧 Contato:
+dev.ferraz86@gmail.com
 
 <p align="center">
   <a href="mailto:dev.ferraz86@gmail.com">
