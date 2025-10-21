@@ -5,7 +5,7 @@
 
 ### 🧠 Sobre mim
 
-🎓 **Bacharelado em Ciência da Computação** – Universidade UNA, Belo Horizonte - MG 
+🎓 **Bacharelado em Ciência da Computação** – Universidade UNA, Belo Horizonte - MG - status: cursando.
 
 💼 **Java - Spring Boot e TypeScript**  
 
