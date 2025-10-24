@@ -59,14 +59,14 @@ Java • Spring Boot • TypeScript • Node.js • Vue.js •  MySQL • Docker
 
 ### 🎨 Front-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,react,javascript,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=typescript,vue,react,javascript,html,css,vscode" />
 </p>
 
 ---
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,spring" />
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,nodejs" />
 </p>
 
 ---
