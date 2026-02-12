@@ -46,16 +46,9 @@ Java • Spring Boot • TypeScript • Node.js • Vue.js •  MySQL • Docker
 
 ---
 
-### ⚙️ Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagoferrazlopes&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoferrazlopes&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack
+
 
 ### 🎨 Front-end
 <p align="center">
