@@ -29,7 +29,7 @@ Integração via JPA/Hibernate no Spring Boot
 
 🧰 Principais Tecnologias:
 
-Java • Spring Boot • TypeScript • Node.js • Vue.js •  MySQL • Docker • CI/CD • REST APIs
+Java • Spring Boot • TypeScript • Node.js • React • Vue.js • MySQL • Docker • CI/CD • REST APIs
 
 
 <p align="center">
