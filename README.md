@@ -56,7 +56,7 @@ Java • Spring Boot • TypeScript • Node.js • React • Vue.js • MySQL �
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,spring,nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,nodejs,vscode" height="40"/>
 </p>
 
 ---
