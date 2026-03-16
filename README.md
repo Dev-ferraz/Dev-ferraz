@@ -45,50 +45,47 @@ Java • Spring Boot • TypeScript • Node.js • React • Vue.js • MySQL �
 </p>
 
 ---
-
-
 ## 🛠️ Tech Stack
-
 
 ### 🎨 Front-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,vue,react,javascript,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=typescript,vue,react,javascript,html,css,vscode" height="40"/>
 </p>
 
 ---
 
 ### ⚙️ Back-end
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,maven,spring,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,maven,spring,nodejs" height="40"/>
 </p>
 
 ---
 
 ### 🗄️ Bancos de Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40"/>
 </p>
 
 ---
 
 ### 🔄 Controle de Versão
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github" height="40"/>
 </p>
 
 ---
 
 ### 🐳 Containers & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,postman" height="40"/>
 </p>
 
 ---
 
 ### 🎨 Design e Prototipação
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
 </p>
 
 ---
